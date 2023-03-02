@@ -21,7 +21,7 @@ Le Morpion doit contenir un Menu avec la possibilité de choisir de jouer à 2 j
 ou contre une IA intelligente avec plusieurs niveaux de difficultés et un algorythme MiniMax.
 Il faut aussi un compteur de points
 
-Vous avez le détail du sujet en pdf ainsi que la version non graphique du Morpion.
+Le détail du sujet est disponible en pdf ainsi que la version non graphique du Morpion.
 
 
 
